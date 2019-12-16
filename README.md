@@ -3,17 +3,6 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ---
-####  Notes to Reviewer
-
-| Name 						 | Responsibility  		 			   | Email address                 | 
-|:-----------------:		 |:----------:   			   |:----------------------------:	|
-| Florian Stahl	(Team Lead)	 | Perception    			   | f.stahl@posteo.de 			|
-| Fatemeh Elham Asadi		 | Perception    			   | elham.asadi@horiba-mira.com	|
-| Saurabh Sharma	 		 | Path Planning / Integration | saurabh1588sharma@gmail.com	|
-| Hiroyuki Mori		 		 | Control  	 			   | m1338m@yahoo.co.jp	|
-| Shinya Fujimura	 		 | Control  	 			   | shinya.fujimura@gmail.com		|
-
----
 ## Table of Contents
 * [Introduction](#introduction)
 * [System Architecture](#system-architecture)
